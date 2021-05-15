@@ -1,0 +1,30 @@
+D:\c#\ControlMotor\bin\Debug\ControlMotor.exe.config
+D:\c#\ControlMotor\bin\Debug\ControlMotor.exe
+D:\c#\ControlMotor\bin\Debug\ControlMotor.pdb
+D:\c#\ControlMotor\obj\Debug\ControlMotor.csprojAssemblyReference.cache
+D:\c#\ControlMotor\obj\Debug\ControlMotor.Form1.resources
+D:\c#\ControlMotor\obj\Debug\ControlMotor.Properties.Resources.resources
+D:\c#\ControlMotor\obj\Debug\ControlMotor.csproj.GenerateResource.cache
+D:\c#\ControlMotor\obj\Debug\ControlMotor.csproj.CoreCompileInputs.cache
+D:\c#\ControlMotor\obj\Debug\ControlMotor.exe
+D:\c#\ControlMotor\obj\Debug\ControlMotor.pdb
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\bin\Debug\ControlMotor.exe.config
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\bin\Debug\ControlMotor.exe
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\bin\Debug\ControlMotor.pdb
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\obj\Debug\ControlMotor.csprojAssemblyReference.cache
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\obj\Debug\ControlMotor.Form1.resources
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\obj\Debug\ControlMotor.Properties.Resources.resources
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\obj\Debug\ControlMotor.csproj.GenerateResource.cache
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\obj\Debug\ControlMotor.csproj.CoreCompileInputs.cache
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\obj\Debug\ControlMotor.exe
+C:\Users\Quang Thinh Le\Desktop\final\ControlMotor\obj\Debug\ControlMotor.pdb
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\bin\Debug\ControlMotor.exe.config
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\bin\Debug\ControlMotor.exe
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\bin\Debug\ControlMotor.pdb
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\obj\Debug\ControlMotor.csprojAssemblyReference.cache
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\obj\Debug\ControlMotor.Form1.resources
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\obj\Debug\ControlMotor.Properties.Resources.resources
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\obj\Debug\ControlMotor.csproj.GenerateResource.cache
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\obj\Debug\ControlMotor.csproj.CoreCompileInputs.cache
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\obj\Debug\ControlMotor.exe
+D:\SEMESTOR_6\do_luong_dk_mt\baiTapLon\Report\final\ControlMotor\obj\Debug\ControlMotor.pdb
