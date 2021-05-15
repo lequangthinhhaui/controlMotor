@@ -4,6 +4,6 @@
 ![alt](https://github.com/lequangthinhhaui/controlMotor/blob/master/Image/2.jpg)
 ![alt](https://github.com/lequangthinhhaui/controlMotor/blob/master/Image/3.jpg)
 ![alt](https://github.com/lequangthinhhaui/controlMotor/blob/master/Image/4.jpg)
-![alt](https://github.com/lequangthinhhaui/controlMotor/blob/master/Image/5.jpg)
+![alt](https://github.com/lequangthinhhaui/controlMotor/blob/master/Image/5.png)
 # facebook
 [title](https://www.facebook.com/lequangthinhblog)
