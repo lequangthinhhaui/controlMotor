@@ -6,4 +6,5 @@
 ![alt](https://github.com/lequangthinhhaui/controlMotor/blob/master/Image/4.jpg)
 ![alt](https://github.com/lequangthinhhaui/controlMotor/blob/master/Image/5.png)
 # facebook
-[title](https://www.facebook.com/lequangthinhblog)
+## Link facebook cá nhân: 
+[Quang Thinh Le](https://www.facebook.com/lequangthinhblog)
