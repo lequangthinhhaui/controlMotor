@@ -19,6 +19,6 @@
 6. Motor Encoder 334
 7. Cáp USB TO COM PL2303 V2
 8. Biến trở 10k
-# facebook
+# Facebook
 ## Link facebook cá nhân: 
 [Quang Thinh Le](https://www.facebook.com/lequangthinhblog)
